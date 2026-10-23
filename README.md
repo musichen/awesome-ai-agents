@@ -43,6 +43,15 @@ Add to readme list:
 <img src="assets/landscape-latest.png" width="100%" alt="Chart of AI Agents Landscape" />
 
 Welcome to our list of AI agents.
+
+## Navigation
+
+This is a long list (thousands of lines). Start here:
+
+- [Open-source projects](#open-source-projects) - open-source agents and frameworks, each with Category, Description, and Links
+- [Closed-source projects and companies](#closed-source-projects-and-companies) - commercial agents and companies
+- Use the [web version](https://e2b.dev/ai-agents) to filter by category and use-case instead of scrolling the raw file
+
 We structured the list into two parts:
 - [Open source projects](#open-source-projects)
 - [Closed-source projects and companies](#closed-source-projects-and-companies)
